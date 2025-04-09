@@ -1,6 +1,7 @@
    ABSTARCT OF NEWSILO:
    
-         A news aggregator website is a valuable digital platform that collects, organizes news and
+        
+   A news aggregator website is a valuable digital platform that collects, organizes news and
 content from multiple sources into one central location. The function of a news aggregator is
 to collect information from various feeds and sources for display on a single platform.  A quick
 overview making it possible for the user to more specifically target topics of their personal
